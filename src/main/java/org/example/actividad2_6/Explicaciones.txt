@@ -1,0 +1,6 @@
+En el ejercicio 2.6 de la pág 92, nos dice que probemos cambiando prioridades
+en los hilos, para ver que sucede. Esto lo podemos averiguar simplemente con
+las explicaciones del libro que comentan que no es adecuado setear las prioridades
+a mano ya que no se garantiza el comportamiento, imagina que tienes un procesador de
+6 hilos y tu programa lanza 6 hilos, finalmente da igual la prioridad que les asignes
+ya que los 6 se van a ejecutar simultáneamente
