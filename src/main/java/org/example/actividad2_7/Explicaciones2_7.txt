@@ -1,0 +1,5 @@
+Sin sincronizar, obviamente el recurso va ir cogiendo diferentes valores y es completamente aleatorio el resultado.
+
+Cuando lo hacemos con runnable aunque sincronicemos el recurso compartido, no se muestra
+el valor final, que ha de ser 25000, es aleatorio aunque hay veces que si se sincronizan los hilos.
+Sin embargo, con thread sí que nos da el valor final 25000 haciendo la sincronización correcta.
