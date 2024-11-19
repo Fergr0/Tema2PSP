@@ -10,7 +10,10 @@ package org.example.actividad2_8;
  *  pero el saldo final puede ser incorrecto,
  * ya que las actualizaciones no están garantizadas a ser atómicas.*/
 
+import java.util.Random;
 import java.util.concurrent.TimeUnit;
+
+import static java.lang.Thread.sleep;
 
 public class Saldo_sin_synchronized {
     private int saldo;
@@ -21,10 +24,16 @@ public class Saldo_sin_synchronized {
     }
 
     // Getter para obtener el saldo
-    public int getSaldo() {
+    public synchronized int getSaldo() {
         try {
-            // Pausa de 2 segundos simulando un proceso largo
-            TimeUnit.SECONDS.sleep(2);
+            // Crear un objeto Random para generar un valor aleatorio
+            Random random = new Random();
+
+            // Generar un valor aleatorio entre 1000 y 3000 milisegundos (1 a 3 segundos)
+            int randomSleepTime = random.nextInt(2001) + 1000;  // entre 1000 y 3000 milisegundos
+
+            // Pausa aleatoria simulando un proceso largo
+            sleep(randomSleepTime); // Usar el valor aleatorio para el sleep
         } catch (InterruptedException e) {
             System.out.println("Interrupcion durante el sleep");
         }

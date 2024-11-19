@@ -1,4 +1,5 @@
 package org.example.actividad2_8;
+import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
 import static java.lang.Thread.sleep;
@@ -14,10 +15,16 @@ public class Saldo {
     // Getter para obtener el saldo
     public synchronized int getSaldo() {
         try {
-            // Pausa de 2 segundos simulando un proceso largo
-           sleep(2000);
+            // Crear un objeto Random para generar un valor aleatorio
+            Random random = new Random();
+
+            // Generar un valor aleatorio entre 1000 y 3000 milisegundos (1 a 3 segundos)
+            int randomSleepTime = random.nextInt(2001) + 1000;  // entre 1000 y 3000 milisegundos
+
+            // Pausa aleatoria simulando un proceso largo
+            sleep(randomSleepTime); // Usar el valor aleatorio para el sleep
         } catch (InterruptedException e) {
-            System.out.println("Interrupción durante el sleep");
+            System.out.println("Interrupcion durante el sleep");
         }
         return saldo;
     }
@@ -76,14 +83,6 @@ class Main {
         hilo2.start();
         hilo3.start();
 
-        try {
-            // Esperar a que los hilos terminen antes de continuar
-            hilo1.join();
-            hilo2.join();
-            hilo3.join();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
 
         // Visualizar saldo final después de que los hilos hayan terminado
         System.out.println("Saldo final: " + saldo.getSaldo());
