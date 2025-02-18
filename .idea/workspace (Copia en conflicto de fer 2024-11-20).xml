@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9873d46e-e959-453c-8364-fc279ca0dd72" name="Changes" comment="Actividad 11 y 2_9 terminadas" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/ramaPrueba" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ramaPrueba" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fergr0&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fergr0/Tema2PSP&quot;,
+    &quot;accountId&quot;: &quot;cf7dcd55-396c-45c7-a5f7-8abd4d0c3e21&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/actividad2_6/Ejercicio6_CarreraConApplet.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nQ29EQNQXf86sluj5rF6KzpGcx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Applet.Ejercicio6.executor": "Run",
+    "Applet.Ejercicio6_CarreraCo....executor": "Run",
+    "Applet.applet2_3.executor": "Run",
+    "Applet.applet8.executor": "Run",
+    "Application.EjecutaHolaMundo.executor": "Run",
+    "Application.EjemploHiloPrioridad1.executor": "Run",
+    "Application.JuegoAdivinarNumero.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.MainEjercicio1_pag_106.executor": "Run",
+    "Application.Main_v2.executor": "Run",
+    "Application.Produc_Consum.executor": "Run",
+    "Application.Saldo.executor": "Run",
+    "Application.actividad2_7.executor": "Run",
+    "Application.actividad2_7_runnable.executor": "Run",
+    "Application.actividad2_7_thread.executor": "Run",
+    "Application.applet8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/fergr01/Dropbox/proyectosIntel/Reservas",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.actividad2_9" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/actividad8" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/actividad2_2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.actividad8" />
+      <recent name="org.example.actividad2_2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9873d46e-e959-453c-8364-fc279ca0dd72" name="Changes" comment="" />
+      <created>1728890826103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728890826103</updated>
+      <workItem from="1728890827310" duration="430000" />
+      <workItem from="1728891328263" duration="2828000" />
+      <workItem from="1728894352213" duration="185000" />
+      <workItem from="1728894665946" duration="737000" />
+      <workItem from="1728895405874" duration="169000" />
+      <workItem from="1728895577429" duration="1586000" />
+      <workItem from="1728905297436" duration="2536000" />
+      <workItem from="1728977290820" duration="35000" />
+      <workItem from="1728993188241" duration="1228000" />
+      <workItem from="1729067178063" duration="20000" />
+      <workItem from="1729164003024" duration="3578000" />
+      <workItem from="1729167983639" duration="28000" />
+      <workItem from="1729244916322" duration="28000" />
+      <workItem from="1729244986895" duration="12000" />
+      <workItem from="1729939107933" duration="703000" />
+      <workItem from="1729939818466" duration="278000" />
+      <workItem from="1729940103187" duration="363000" />
+      <workItem from="1730028611039" duration="122000" />
+      <workItem from="1730028740561" duration="103000" />
+      <workItem from="1730103799710" duration="342000" />
+      <workItem from="1730104158316" duration="33000" />
+      <workItem from="1730104784226" duration="4435000" />
+      <workItem from="1730147664621" duration="194000" />
+      <workItem from="1730190159070" duration="22000" />
+      <workItem from="1730408457096" duration="404000" />
+      <workItem from="1730713538973" duration="1670000" />
+      <workItem from="1730885809082" duration="7000" />
+      <workItem from="1730983935050" duration="2095000" />
+      <workItem from="1730986668470" duration="30000" />
+      <workItem from="1730986708389" duration="84000" />
+      <workItem from="1731062988765" duration="2000" />
+      <workItem from="1731063011850" duration="12000" />
+      <workItem from="1731313291857" duration="742000" />
+      <workItem from="1731314571890" duration="1464000" />
+      <workItem from="1731316216119" duration="3408000" />
+      <workItem from="1731399886114" duration="6000" />
+      <workItem from="1731918573377" duration="2755000" />
+      <workItem from="1731921742084" duration="1000" />
+      <workItem from="1731921753642" duration="3000" />
+      <workItem from="1731921770014" duration="1081000" />
+      <workItem from="1732005267320" duration="2000" />
+      <workItem from="1732005280695" duration="34000" />
+      <workItem from="1732020885864" duration="2172000" />
+      <workItem from="1732023067474" duration="3000" />
+      <workItem from="1732023079443" duration="2000" />
+      <workItem from="1732023088890" duration="2000" />
+      <workItem from="1732023104469" duration="184000" />
+      <workItem from="1732041755876" duration="44000" />
+      <workItem from="1732043410330" duration="1096000" />
+      <workItem from="1732044548918" duration="50000" />
+      <workItem from="1732044616566" duration="115000" />
+      <workItem from="1732044740638" duration="2534000" />
+      <workItem from="1732133724276" duration="41000" />
+    </task>
+    <task id="LOCAL-00001" summary="subir proyecto">
+      <option name="closed" value="true" />
+      <created>1731316273392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731316273392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="subir proyecto">
+      <option name="closed" value="true" />
+      <created>1731316373694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731316373694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="subir carpeta 2_7 y fichero prueba.java">
+      <option name="closed" value="true" />
+      <created>1731316588574</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731316588574</updated>
+    </task>
+    <task id="LOCAL-00004" summary="subir carpeta 2_7 y fichero prueba.java">
+      <option name="closed" value="true" />
+      <created>1731316596926</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731316596926</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2_8 acabado, falta la act 11">
+      <option name="closed" value="true" />
+      <created>1732022072926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732022072926</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2_8 acabado, falta la act 11">
+      <option name="closed" value="true" />
+      <created>1732022153864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732022153864</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2_8 acabado con los random, falta la act 11">
+      <option name="closed" value="true" />
+      <created>1732023014835</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732023014835</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1732023042356</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732023042356</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Actividad 11 y 2_9 terminadas">
+      <option name="closed" value="true" />
+      <created>1732047260108</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732047260108</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="subir proyecto" />
+    <MESSAGE value="subir carpeta 2_7 y fichero prueba.java" />
+    <MESSAGE value="merge de rama prueba a master para tener la 2_8 acabada y hacer la 11" />
+    <MESSAGE value="2_8 acabado, falta la act 11" />
+    <MESSAGE value="2_8 acabado, falta la act 11 con los random" />
+    <MESSAGE value="2_8 acabado con los random, falta la act 11" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Actividad 11 y 2_9 terminadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividad 11 y 2_9 terminadas" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
